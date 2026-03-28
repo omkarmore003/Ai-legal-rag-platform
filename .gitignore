@@ -1,0 +1,16 @@
+# Environments
+.env
+
+# Virtual Environment
+venv/
+__pycache__/
+
+# Mac
+.DS_Store
+
+# Installers and Executables
+*.exe
+
+# Sample and Uploaded Documents
+*.pdf
+*.docx
