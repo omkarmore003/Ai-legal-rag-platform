@@ -35,8 +35,8 @@ If you want the OCR fallback to work on scanned PDFs, you must have [Tesseract](
 ### 2. Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourusername/ai-legal-platform.git
-cd ai-legal-platform
+git clone https://github.com/yourusername/Ai-legal-platform.git
+cd Ai-legal-platform
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
